@@ -20,12 +20,11 @@ presentation(person)
 ```
 Hello, World!
 My name is Emanuel, I'm 27 years old and I live in Maracanaú, Ceará, Brazil.
-I'm interested in some languages I'm trying to learn, as HTML, CSS, JavaScript, because I really like front-end
-development, also Python , because it's a clean language and I'm learning it in college, and lastly, Kotlin, I
-haven't started venturing myself into Kotlin yet, but I think it's interesting to learn a language for mobile
-development for a mobile dedicated operating system, such as Android, used in many devices around the world. I
-started studying Full Stack Development at Estácio in 2022.4 and I'm looking for new meaningful experiences as
-a developer.
+I'm interested in some languages I'm trying to learn, as HTML, CSS, JavaScript, because I really like front-end development,
+also Python , because it's a clean language and I'm learning it in college, and lastly, Kotlin, I haven't started venturing
+myself into Kotlin yet, but I think it's interesting to learn a language for mobile development for a mobile dedicated
+operating system, such as Android, used in many devices around the world. I started studying Full Stack Development at
+Estácio in 2022.4 and I'm looking for new meaningful experiences as a developer.
 Here, I'll try to share my studies and on-going projects. Feel free to explore my GitHub!
 ```
 
