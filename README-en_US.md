@@ -26,7 +26,7 @@ Here, I'll try to share my studies and on-going projects. Feel free to explore m
 <hr>
 <div align="center">
 
-[Português](./README.md) • English
+[🇧🇷 Português](./README.md) • 🇺🇸 English
 
 </div>
 <hr>
