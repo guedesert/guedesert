@@ -15,14 +15,6 @@ def apresentacao(alguem) :
 
 apresentacao(eu)
 ```
-<details align="justify"><summary><strong>Executar e Depurar</strong></summary>
-<br>
-Olá, Mundo!<br>
-Meu nome é Emanuel, tenho 27 anos e moro em Maracanaú, Ceará, Brasil.<br>
-Tenho interesse em algumas linguagens, que atualmente estou tentanto aprender, como HTML, CSS, JavaScript, pois eu realmente gosto de desenvolvimento front-end, Python também, já que considero uma linguagem clara e que estou aprendendo atualmente na faculdade, e, por último, Kotlin. Ainda não me aventurei em Kotlin, mas acho interesante aprender uma linguagem para desenvolvimento mobile para um sistema operacional dedicado para dispositivos móveis, como o Android, que é utilizado em vários dispositivos em todo o mundo.<br>
-Comecei a estudar Desenvolvimento Full Stack na Estácio no semestre de 2022.4 e estou buscando experiências significativas como desenvolvedor.<br>
-Aqui, compartilharei meus estudos e projetos em andamento. Sinta-se à vontade para explorar meu GitHub!
-</details>
 
 <div align="center">
   <a href = "#"><img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"></a>
