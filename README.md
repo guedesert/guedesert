@@ -27,14 +27,13 @@ Aqui, compartilharei meus estudos e projetos em andamento. Sinta-se à vontade p
 <div align="center">
   <a href = "#"><img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"></a>
   
-  🇧🇷 Português • [🇺🇸 English](./README-en_US.md)
-  
+  🇧🇷 Português • [🇺🇸 English](./README-en_US.md)  
   <a href = "#">
     <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
   </a>
 </div>
-
-<div align= "center" > 
+<br>
+<div align= "center"> 
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guedesert&show_icons=true&theme=radical&layout=compact" alt="guedesert">
     <br>
@@ -42,14 +41,18 @@ Aqui, compartilharei meus estudos e projetos em andamento. Sinta-se à vontade p
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=guedesert&theme=radical" alt="guedesert">
   </a>
-  <br>
+</div>
+<br>
+<div align= "center"> 
   <a href = "mailto:guedesert@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/guedesert" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue">
   </a>
-  <br>
+</div>
+<br>
+<div align= "center">
   
   ![Snake animation](https://github.com/guedesert/guedesert/blob/output/github-contribution-grid-snake.svg)
   
