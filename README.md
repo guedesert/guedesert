@@ -24,10 +24,21 @@ Comecei a estudar Desenvolvimento Full Stack na Estácio no semestre de 2022.4 e
 Aqui, compartilharei meus estudos e projetos em andamento. Sinta-se à vontade para explorar meu GitHub!
 </details>
 
-<hr>
+##
+
 <div align="center">
 
 🇧🇷 Português • [🇺🇸 English](./README-en_US.md)
 
 </div>
-<hr>
+
+##
+
+<div align= "center" > 
+  <a href = "mailto:guedesert@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guedesert" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/guedesert/guedesert/blob/output/github-contribution-grid-snake.svg)
+  
+ 
+</div>
