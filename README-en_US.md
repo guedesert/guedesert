@@ -37,7 +37,7 @@ presentation(me)
 <br>
 <div align= "center"> 
   <a href = "mailto:guedesert@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/guedesert" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue">
