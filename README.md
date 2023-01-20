@@ -15,12 +15,11 @@ def apresentacao(alguem) :
 
 apresentacao(eu)
 ```
-
-#  
-  🇧🇷 Português • [🇺🇸 English](./README-en_US.md)  
-#
-
 <div align= "center"> 
+
+#
+🇧🇷 Português • [🇺🇸 English](./README-en_US.md)  
+#
 
   [![Linguagens do meu GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=guedesert&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
