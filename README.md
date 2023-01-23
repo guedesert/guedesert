@@ -1,35 +1,48 @@
+# 👋 Olá, eu me chamo Emanuel!
+
 ```python
 print("Olá, Mundo!")
-
-nome = "Emanuel"
-idade = 27
-localizacao = "Maracanaú, Ceará, Brasil"
-linguagens = ["HTML","CSS","JavaScript","Python","React Native"]
-curso = "Desenvolvimento Full Stack"
-faculdade = "Estácio"
-
-eu = [nome,idade,localizacao,linguagens,curso,faculdade]
-
-def apresentacao(alguem) :
-  print(f"Meu nome é {alguem[0]}, tenho {alguem[1]} anos e moro em {alguem[2]}.\nTenho interesse em algumas linguagens, que atualmente estou tentanto aprender, como {alguem[3][0]}, {alguem[3][1]}, {alguem[3][2]}, pois eu realmente gosto de desenvolvimento front-end, {alguem[3][3]} também, já que considero uma linguagem clara e que estou aprendendo atualmente na faculdade, e, por último, {alguem[3][4]}. Ainda não me aventurei em {alguem[3][4]}, mas acho interesante aprender uma linguagem para desenvolvimento mobile para um sistema operacional dedicado para dispositivos móveis, como o Android, que é utilizado em vários dispositivos em todo o mundo.\nComecei a estudar {alguem[4]} na {alguem[5]} no semestre de 2022.4 e estou buscando experiências significativas como desenvolvedor.\nAqui, compartilharei meus estudos e projetos em andamento. Sinta-se à vontade para explorar meu GitHub!")
-
-apresentacao(eu)
 ```
+- 🔭 Estudo [**`Desenvolvimento Full Stack`**](https://github.com/guedesert/desenvolvimento-full-stack) pela [**`Estácio`**](https://estacio.br/inscricao/formulario?cod_agente=14369444&u=177546).
+- 🌱 Estou aprendendo `Python`, `HTML`, `CSS` e `JavaScript`.
+- 💡 Tenho interesse em aprender `React Native`.
+- 😁 Nas horas vagas assisto a séries e a animes, e também jogo um pouco.
+- 🤓 Pronomes: ele/dele.
+
 <div align= "center"> 
 
-#
-🇧🇷 Português • [🇺🇸 English](./README-en_US.md)  
-#
+---
 
-  [![Linguagens do meu GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=guedesert&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+🇧🇷 Português • [🇺🇸 English](./README-en_US.md)
+
+---
+
+</div>
+
+## Estou aprendendo
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+
+## Tenho interesse
+![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+
+## Contatos
+
+<div align= "center"> 
+
+[![E-mail](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail)](mailto:guedesert@gmail.com) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/guedesert) | [![Instagram](https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/guedesert)
   
-  [![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=guedesert&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![Contribuições ao meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=guedesert&theme=radical)
-  
-  [![E-mail](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail)](mailto:guedesert@gmail.com) 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/guedesert)
-    
-  ![Jogo da cobrinha com as contribuições ao meu GitHub](https://github.com/guedesert/guedesert/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+## Estatísticas do meu GitHub
+
+<div align= "center"> 
+
+[![Linguagens do meu GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=guedesert&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=guedesert&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Contribuições ao meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=guedesert&theme=radical)
+
+![Jogo da cobrinha com as contribuições ao meu GitHub](https://github.com/guedesert/guedesert/blob/output/github-contribution-grid-snake.svg)
   
 </div>
