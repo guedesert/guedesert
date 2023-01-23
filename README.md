@@ -1,7 +1,4 @@
 # 👋 Olá, eu me chamo Emanuel!
-```python
-print("Olá, Mundo!")
-```
 
 <div align= "center"> 
 
@@ -11,6 +8,9 @@ print("Olá, Mundo!")
 
 ---
 
+```python
+print("Olá, Mundo!")
+```
 - 🔭 Estudo [**`Desenvolvimento Full Stack`**](https://github.com/guedesert/desenvolvimento-full-stack) pela [**`Estácio`**](https://estacio.br/inscricao/formulario?cod_agente=14369444&u=177546).
 - 🌱 Estou aprendendo `Python`, `HTML`, `CSS` e `JavaScript`.
 - 💡 Tenho interesse em aprender `React Native`.
