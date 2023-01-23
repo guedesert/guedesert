@@ -30,8 +30,9 @@ print("Hello, World!")
 
 <div align= "center"> 
 
-[![E-mail](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail)](mailto:guedesert@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/guedesert) [![Instagram](https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/guedesert)
-  
+[![E-mail](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guedesert@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guedesert) [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guedesert)
+
+![PSN ID](https://img.shields.io/badge/-guedesert-00439C?style=for-the-badge&logo=playstation) ![Riot ID](https://img.shields.io/badge/-guedesert%231802-F12B15?style=for-the-badge&logo=riot-games)
 </div>
 
 ## 📊 My GitHub stats
