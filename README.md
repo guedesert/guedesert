@@ -11,25 +11,23 @@ print("Olá, Mundo!")
 
 <div align= "center"> 
 
----
-
 🇧🇷 Português • [🇺🇸 English](./README-en_US.md)
-
----
 
 </div>
 
 ## Estou aprendendo
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 
 ## Tenho interesse
-![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 
 ## Contatos
 
 <div align= "center"> 
 
-[![E-mail](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail)](mailto:guedesert@gmail.com) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/guedesert) | [![Instagram](https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/guedesert)
+[![E-mail](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail)](mailto:guedesert@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/guedesert) [![Instagram](https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/guedesert)
   
 </div>
 
