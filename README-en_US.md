@@ -12,21 +12,21 @@
 ```python
 print("Hello, World!")
 ```
-- 🔭 Studying [**`Full Stack Development`**](https://github.com/guedesert/desenvolvimento-full-stack) at [**`Estácio`**](https://estacio.br/inscricao/formulario?cod_agente=14369444&u=177546).
+- 🎓 Studying [**`Full Stack Development`**](https://github.com/guedesert/desenvolvimento-full-stack) at [**`Estácio`**](https://estacio.br/inscricao/formulario?cod_agente=14369444&u=177546).
 - 🌱 Learning `Python`, `HTML`, `CSS` and `JavaScript`.
 - 💡 Interested on learning `React Native`.
 - 😁 In my free time I watch series and animes, also, I like to play games a little bit.
 - 🤓 Pronouns: he/him.
 
-## Learning
+## 🌱 Learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 
-## Interested on
+## 💡 Interested on
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 
-## Contacts
+## 📧 Contacts
 
 <div align= "center"> 
 
@@ -34,7 +34,7 @@ print("Hello, World!")
   
 </div>
 
-## My GitHub stats
+## 📊 My GitHub stats
 
 <div align= "center"> 
 
