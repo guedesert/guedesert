@@ -47,5 +47,7 @@ print("Olá, Mundo!")
 ![Contribuições ao meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=guedesert&theme=radical)
 
 ![Jogo da cobrinha com as contribuições ao meu GitHub](https://github.com/guedesert/guedesert/blob/output/github-contribution-grid-snake.svg)
-  
+
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=guedesert&label=VISITAS)
+
 </div>
