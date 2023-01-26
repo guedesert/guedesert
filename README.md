@@ -48,6 +48,6 @@ print("Olá, Mundo!")
 
 ![Jogo da cobrinha com as contribuições ao meu GitHub](https://github.com/guedesert/guedesert/blob/output/github-contribution-grid-snake.svg)
 
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=guedesert&label=VISITAS)
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=guedesert&style=for-the-badge&label=VISITAS)
 
 </div>
