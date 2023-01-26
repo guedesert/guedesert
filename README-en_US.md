@@ -47,4 +47,6 @@ print("Hello, World!")
 
 ![Snake game](https://github.com/guedesert/guedesert/blob/output/github-contribution-grid-snake.svg)
 
+![Profile views](https://komarev.com/ghpvc/?username=guedesert&style=for-the-badge)
+
 </div>
