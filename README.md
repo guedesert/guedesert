@@ -40,11 +40,11 @@ print("Olá, Mundo!")
 
 <div align= "center"> 
 
-[![Linguagens do meu GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=guedesert&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens do meu GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=guedesert&show_icons=true&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=guedesert&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=guedesert&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Contribuições ao meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=guedesert&theme=radical)
+![Contribuições ao meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=guedesert&theme=tokyonight&hide_border=true)
 
 ![Jogo da cobrinha com as contribuições ao meu GitHub](https://github.com/guedesert/guedesert/blob/output/github-contribution-grid-snake.svg)
 
