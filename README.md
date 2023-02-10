@@ -16,7 +16,7 @@ print("Olá, Mundo!")
 ```
 - 🎓 Estudo [**`Desenvolvimento Full Stack`**](https://github.com/guedesert/desenvolvimento-full-stack) pela [**`Estácio`**](https://estacio.br/inscricao/formulario?cod_agente=14369444&u=177546).
 - 🌱 Estou aprendendo `Python`, `HTML`, `CSS` e `JavaScript`.
-- 💡 Tenho interesse em aprender `React Native`.
+- 💡 Tenho interesse em aprender `Django` e `React Native`.
 - 😁 Nas horas vagas assisto a séries e a animes, e também jogo um pouco.
 - 🤓 Pronomes: ele/dele.
 
@@ -26,7 +26,7 @@ print("Olá, Mundo!")
 
 ## Tenho interesse em
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 
 ## Contatos
 
