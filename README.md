@@ -2,7 +2,7 @@
 
 ![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&color=006ae0&height=150&section=header)
   
-[![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Emanuel!+👋🏼;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Emanuel!+👋🏼;Bem-vindo+ao+meu+GitHub!&center=true)](https://git.io/typing-svg)
 
 ---
 
