@@ -45,9 +45,7 @@ print("Olá, Mundo!")
 
 [![Linguagens do meu GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=guedesert&show_icons=true&theme=transparent&hide_border=true&layout=compact&title_color=61dafb&icon_color=61dafb)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=guedesert&show_icons=true&theme=transparent&hide_border=true&title_color=61dafb&icon_color=61dafb)](https://github.com/anuraghazra/github-readme-stats)
-
-![Contribuições ao meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=guedesert&theme=transparent&hide_border=true&title_color=61dafb&icon_color=61dafb)
+[![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=guedesert&show_icons=true&theme=transparent&hide_border=true&title_color=61dafb&icon_color=006ae0)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Jogo da cobrinha com as contribuições ao meu GitHub](https://github.com/guedesert/guedesert/blob/output/github-contribution-grid-snake.svg)
 
