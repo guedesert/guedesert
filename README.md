@@ -40,7 +40,7 @@
 
 <div align= "center"> 
 
-[![Linguagens do meu GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=guedesert&show_icons=true&theme=transparent&hide_border=true&layout=compact&title_color=61dafb&icon_color=61dafb)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens do meu GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=guedesert&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&title_color=61dafb&icon_color=61dafb&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=guedesert&show_icons=true&theme=tokyonight&hide_border=true&title_color=61dafb&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
