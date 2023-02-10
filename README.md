@@ -17,7 +17,7 @@
 - 😁 Nas horas vagas assisto a séries e a animes, e também jogo um pouco.
 - 🤓 Pronomes: ele/dele.
 
-## Ferramentas
+## Tenho conhecimento em
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 
@@ -35,7 +35,7 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guedesert@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guedesert) [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guedesert)
 
-![PSN ID](https://img.shields.io/badge/-guedesert-00439C?style=for-the-badge&logo=playstation) ![Riot ID](https://img.shields.io/badge/-guedesert%231802-F12B15?style=for-the-badge&logo=riot-games)
+![PSN ID](https://img.shields.io/badge/-guedesert-00439C?style=for-the-badge&logo=playstation) ![Riot ID](https://img.shields.io/badge/-guedesert%231802-F12B15?style=for-the-badge&logo=riot-games) ![Discord](https://img.shields.io/badge/-guedesert%239812-7289da?style=for-the-badge&logo=discord&logoColor=white)
   
 </div>
 
