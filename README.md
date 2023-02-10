@@ -1,8 +1,7 @@
 <div align= "center"> 
 
 ![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&color=006ae0&height=150&section=header)
-  
-[![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Emanuel!+👋🏼;Bem-vindo+ao+meu+GitHub!&center=true)](https://git.io/typing-svg)
+[![Apresentação](https://readme-typing-svg.demolab.com/?lines=👋🏼+Olá,+meu+nome+é+Emanuel!;Bem-vindo+ao+meu+GitHub!&center=true)](https://git.io/typing-svg)
 
 ---
 
@@ -44,11 +43,11 @@ print("Olá, Mundo!")
 
 <div align= "center"> 
 
-[![Linguagens do meu GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=guedesert&show_icons=true&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens do meu GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=guedesert&show_icons=true&theme=transparent&hide_border=true&layout=compact&title_color=61dafb&icon_color=61dafb)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=guedesert&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=guedesert&show_icons=true&theme=transparent&hide_border=true&title_color=61dafb&icon_color=61dafb)](https://github.com/anuraghazra/github-readme-stats)
 
-![Contribuições ao meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=guedesert&theme=tokyonight&hide_border=true)
+![Contribuições ao meu GitHub](https://github-readme-streak-stats.herokuapp.com/?user=guedesert&theme=transparent&hide_border=true&title_color=61dafb&icon_color=61dafb)
 
 ![Jogo da cobrinha com as contribuições ao meu GitHub](https://github.com/guedesert/guedesert/blob/output/github-contribution-grid-snake.svg)
 
