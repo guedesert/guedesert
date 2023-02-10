@@ -1,20 +1,19 @@
-# 👋 Hello, I'm Emanuel!
----
-
 <div align= "center"> 
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=006ae0&height=150&section=header)
+[![Presentation](https://readme-typing-svg.demolab.com/?lines=👋🏼+Hello,+I'm+Emanuel!;Welcome+to+my+GitHub+profile!&center=true)](https://git.io/typing-svg)
+
+---
 
 [🇧🇷 Português](./README.md) • 🇺🇸 English
 
+---
+  
 </div>
 
----
-
-```python
-print("Hello, World!")
-```
 - 🎓 Studying [**`Full Stack Development`**](https://github.com/guedesert/desenvolvimento-full-stack) at [**`Estácio`**](https://estacio.br/inscricao/formulario?cod_agente=14369444&u=177546).
 - 🌱 Learning `Python`, `HTML`, `CSS` and `JavaScript`.
-- 💡 Interested on learning `React Native`.
+- 💡 Interested on learning `Django` e `React Native`.
 - 😁 In my free time I watch series and animes, also, I like to play games a little bit.
 - 🤓 Pronouns: he/him.
 
@@ -24,7 +23,7 @@ print("Hello, World!")
 
 ## Interested on
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 
 ## Contacts
 
@@ -39,14 +38,14 @@ print("Hello, World!")
 
 <div align= "center"> 
 
-[![Languages on my GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=guedesert&show_icons=true&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages on my GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=guedesert&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&title_color=61dafb&icon_color=61dafb&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=guedesert&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Contributions on my GitHub](https://github-readme-streak-stats.herokuapp.com/?user=guedesert&theme=tokyonight&hide_border=true)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=guedesert&show_icons=true&theme=tokyonight&hide_border=true&title_color=61dafb&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake game](https://github.com/guedesert/guedesert/blob/output/github-contribution-grid-snake.svg)
 
-![Profile views](https://profile-counter.glitch.me/guedesert/count.svg)
+![Total profile views](https://profile-counter.glitch.me/guedesert/count.svg)
+
+![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=006ae0&height=125&section=footer)
 
 </div>
