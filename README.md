@@ -1,13 +1,16 @@
-# 👋 Olá, eu me chamo Emanuel!
----
-
 <div align= "center"> 
+
+![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&color=006ae0&height=150&section=header)
+  
+[![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Emanuel!+👋🏼;Bem-vindo+ao+meu+GitHub!&size=25)](https://git.io/typing-svg)
+
+---
 
 🇧🇷 Português • [🇺🇸 English](./README-en_US.md)
 
-</div>
-
 ---
+
+</div>
 
 ```python
 print("Olá, Mundo!")
@@ -36,6 +39,7 @@ print("Olá, Mundo!")
   
 </div>
 
+
 ## Estatísticas do meu GitHub
 
 <div align= "center"> 
@@ -50,4 +54,6 @@ print("Olá, Mundo!")
 
 ![Total de visitas ao perfil](https://profile-counter.glitch.me/guedesert/count.svg)
 
+![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=006ae0&height=125&section=footer)
+  
 </div>
