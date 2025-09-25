@@ -24,13 +24,14 @@
 
 <div align= "center" style="text-align: center">
 
-[![GitHub](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/https://git-scm.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/pt_br/)
+[![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
-[![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/pt-BR)
+[![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 
 </div>
 
@@ -38,13 +39,13 @@
 
 <div align= "center" style="text-align: center">
 
-[![Troféus](https://github-profile-trophy.vercel.app/?username=guedesert&theme=tokyonight&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Troféus](https://github-profile-trophy.vercel.app/?username=guedesert&theme=tokyonight&hide_border=true)
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guedesert&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guedesert&layout=donut&theme=tokyonight&hide_border=true)
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=guedesert&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Sequência](https://streak-stats.demolab.com?user=guedesert&locale=pt_BR&exclude_days=Sun%2CSat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Sequência](https://streak-stats.demolab.com?user=guedesert&locale=pt_BR&exclude_days=Sun%2CSat&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -53,6 +54,7 @@
 
 <div align= "center" style="text-align: center"> 
 
+<a href="https://discord.com/users/575743524243374091" target="blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40" /></a>
 <a href="mailto:guedesert@gmail.com" target="blank"><img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" width="40" /></a>
 <a href="https://www.linkedin.com/in/guedesert" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="40" /></a>
 
